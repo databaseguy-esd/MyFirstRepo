@@ -1,1 +1,2 @@
 This is some more text for more testing
+We are editing the file.
